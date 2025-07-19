@@ -1,0 +1,21 @@
+{
+  "darkMode": "dark",
+  "scale": 0,
+  "locale": "en-US",
+  "quickWindowPosition": {
+    "absolutePointInWorkspace": {
+      "x": 417,
+      "y": 200
+    }
+  },
+  "mcpServers": {
+    "basic-memory": {
+      "command": "/Users/yourusername/.local/bin/uvx",
+      "args": ["basic-memory", "mcp"]
+    },
+    "other-mcp-server": {
+      "command": "other-command",
+      "args": ["arg1", "arg2"]
+    }
+  }
+}
